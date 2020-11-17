@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: '1',
     name: 'All Manner of Potions',
     image: '/images/potions.jpg',
     description:
@@ -13,7 +12,6 @@ const products = [
     numReviews: 12
   },
   {
-    _id: '2',
     name: 'Leather Armor',
     image: '/images/armor.jpg',
     description:
@@ -26,7 +24,6 @@ const products = [
     numReviews: 8
   },
   {
-    _id: '3',
     name: 'Lute',
     image: '/images/lute.jpg',
     description:
@@ -39,7 +36,6 @@ const products = [
     numReviews: 12
   },
   {
-    _id: '4',
     name: 'Battle Axe',
     image: '/images/axe.jpg',
     description:
@@ -52,7 +48,6 @@ const products = [
     numReviews: 12
   },
   {
-    _id: '5',
     name: 'Magic Sword',
     image: '/images/sword.jpeg',
     description:
@@ -65,7 +60,6 @@ const products = [
     numReviews: 10
   },
   {
-    _id: '6',
     name: 'Elven Bread',
     image: '/images/rations.jpg',
     description:
