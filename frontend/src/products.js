@@ -15,7 +15,7 @@ const products = [
   {
     _id: '2',
     name: 'Leather Armor',
-    image: '/images/armor.png',
+    image: '/images/armor.jpg',
     description:
       'Made from the finest boiled leather, our Leather Armor will keep your protected while not weighting you down in the process. All armor is made-to-order and tailored just for you.',
     brand: 'Crafty Corvid Armors',
