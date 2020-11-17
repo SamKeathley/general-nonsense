@@ -20,7 +20,7 @@ const products = [
       'Made from the finest boiled leather, our Leather Armor will keep your protected while not weighting you down in the process. All armor is made-to-order and tailored just for you.',
     brand: 'Crafty Corvid Armors',
     category: 'Armor',
-    price: 10,
+    price: 150,
     countInStock: 7,
     rating: 4.0,
     numReviews: 8
