@@ -66,7 +66,7 @@ const products = [
   },
   {
     _id: '6',
-    name: 'Elven Bread Rations',
+    name: 'Elven Bread',
     image: '/images/rations.jpg',
     description:
       'Made by the finest Elven bakers, this Elven bread will keep you full on your adventure.',
@@ -79,4 +79,4 @@ const products = [
   }
 ];
 
-module.exports = products;
+export default products;
