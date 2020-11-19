@@ -27,12 +27,11 @@ const ProfileScreen = ({ location, history }) => {
       if (!user.name) {
         dispatch(getUserDetails('profile'))
       } else {
-        console.log(userInfo)
         setName(user.name)
         setEmail(user.email)
       }
     }
-  }, [dispatch, history, userInfo])
+  }, [dispatch, history, userInfo, user])
 
   const submitHandler = (e) => {
     e.preventDefault()
